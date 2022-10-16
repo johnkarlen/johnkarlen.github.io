@@ -11,6 +11,8 @@ navbar:
       href: lodging.html
     - text: "Dining"
       href: dining.html
+    - text: "RSVP"
+      href: rsvp.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<anwarkarlen@gmail.com>
