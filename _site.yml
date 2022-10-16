@@ -1,0 +1,20 @@
+name: "husna-anwar-personal-website"
+output_dir: docs
+navbar:
+  title: "Husna Anwar & John Karlen Wedding"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Venue"
+      href: venue.html
+    - text: "Lodging"
+      href: lodging.html
+    - text: "Dining"
+      href: dining.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<anwarkarlen@gmail.com>
+output:
+  html_document:
+    theme: journal
+    css: files/style.css
